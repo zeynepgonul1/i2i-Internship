@@ -1,4 +1,4 @@
-# i2i-Internship_Homeworks
+# i2i-INTERNSHIP HOMEWORKS
 
 # CLOUD-EX-01
 Cloud Exercise 01 - VM Creation and Ping Test on GCP
